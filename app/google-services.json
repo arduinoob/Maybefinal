@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "889002066733",
+    "firebase_url": "https://grabt-b3d49.firebaseio.com",
+    "project_id": "grabt-b3d49",
+    "storage_bucket": "grabt-b3d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889002066733:android:f3b82cd68e240e62",
+        "android_client_info": {
+          "package_name": "com.thesis.grabtrash.maybefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889002066733-7tokt8umpo01ko95efshfvm7c6b6bf6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_HShQ3WmHZP8prgaRRYce4RGQt1KOfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
